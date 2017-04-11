@@ -13,8 +13,9 @@ make_shirt()
 def make_pizza(*toppings):
     print(toppings)
 
-make_pizza('peperoni')
-make_pizza('mushrooms', 'green peppers', 'banana', 'extra chess')
+
+
+
 
 
 
